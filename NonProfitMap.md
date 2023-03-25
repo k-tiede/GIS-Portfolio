@@ -4,7 +4,7 @@ I chose to create a map for a non-profit called Project for Pride in Living that
 
 [Here](PPL_json.txt) is a link to a text file containing the JSON code for the stylized Google Map.
 
-The bid I created at the beginning of my assginment and my actual hours and reflection can be found [here](PPL_Bid.doc)
+The bid I created at the beginning of my assginment and my actual hours and reflection can be found [here](PPL_Bid.docx)
 
 ## Color Palette
 
