@@ -11,7 +11,7 @@
     "elementType": "labels.text.fill",
     "stylers": [
       {
-        "color": "#746855"
+        "color": "#b6d43e"
       }
     ]
   },
@@ -19,7 +19,7 @@
     "elementType": "labels.text.stroke",
     "stylers": [
       {
-        "color": "#242f3e"
+        "color": "#000000"
       }
     ]
   },
@@ -28,7 +28,16 @@
     "elementType": "labels.text.fill",
     "stylers": [
       {
-        "color": "#d59563"
+        "color": "#b6d43e"
+      }
+    ]
+  },
+  {
+    "featureType": "administrative.locality",
+    "elementType": "labels.text.stroke",
+    "stylers": [
+      {
+        "color": "#000000"
       }
     ]
   },
@@ -37,7 +46,19 @@
     "elementType": "labels.text.fill",
     "stylers": [
       {
-        "color": "#d59563"
+        "color": "#b6d43e"
+      },
+      {
+        "weight": 1.5
+      }
+    ]
+  },
+  {
+    "featureType": "poi",
+    "elementType": "labels.text.stroke",
+    "stylers": [
+      {
+        "color": "#000000"
       }
     ]
   },
@@ -46,7 +67,7 @@
     "elementType": "geometry",
     "stylers": [
       {
-        "color": "#263c3f"
+        "color": "#699abe"
       }
     ]
   },
@@ -55,7 +76,16 @@
     "elementType": "labels.text.fill",
     "stylers": [
       {
-        "color": "#6b9a76"
+        "color": "#b6d43e"
+      }
+    ]
+  },
+  {
+    "featureType": "poi.park",
+    "elementType": "labels.text.stroke",
+    "stylers": [
+      {
+        "color": "#000000"
       }
     ]
   },
@@ -64,7 +94,7 @@
     "elementType": "geometry",
     "stylers": [
       {
-        "color": "#38414e"
+        "color": "#bfd0c5"
       }
     ]
   },
@@ -91,7 +121,7 @@
     "elementType": "geometry",
     "stylers": [
       {
-        "color": "#746855"
+        "color": "#6a9177"
       }
     ]
   },
@@ -127,7 +157,7 @@
     "elementType": "labels.text.fill",
     "stylers": [
       {
-        "color": "#d59563"
+        "color": "#b6d43e"
       }
     ]
   },
@@ -136,7 +166,7 @@
     "elementType": "geometry",
     "stylers": [
       {
-        "color": "#17263c"
+        "color": "#7eb7c8"
       }
     ]
   },
@@ -154,7 +184,7 @@
     "elementType": "labels.text.stroke",
     "stylers": [
       {
-        "color": "#17263c"
+        "color": "#000000"
       }
     ]
   }
