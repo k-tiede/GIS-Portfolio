@@ -10,5 +10,5 @@ I hope to learn more about how GIS can be used in policy spaces, especially in t
 
 # Portfolio
 
-[Non-Profit Map](/NonProfitMap.md) 
-[SummerFest Demo](/SummerFestDemo2023.md)
+* [Non-Profit Map](/NonProfitMap.md) 
+* [SummerFest Demo](/SummerFestDemo2023.md)
