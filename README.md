@@ -9,3 +9,6 @@ I am a public policy and data analytics graduate student at Carnegie Mellon Univ
 I hope to learn more about how GIS can be used in policy spaces, especially in terms of analysis of policy. I also hope to strengthen my ability to scope projects and plan out what they will require. Additionally, I am very excited to learn more about spatial data science and recent developments in this area. In particular, I hope to gain a better understanding of kernel density equations and how to best perfrom statistical analysis on geographical data.
 
 # Portfolio
+
+[Non-Profit Map](/NonProfitMap.md) 
+[SummerFest Demo](/SummerFestDemo2023.md)
